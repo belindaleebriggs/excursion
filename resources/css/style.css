@@ -1,0 +1,35 @@
+/* Style main page elements */
+#main-page {
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: Verdana, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.body-text {
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+}
+
+/*Style Footer Elements*/
+.flush-right {
+  text-align: right;
