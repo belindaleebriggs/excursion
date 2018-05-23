@@ -1,5 +1,5 @@
 /* Style main page elements */
-#main-page {
+body {
   text-align: center;
   background-color: black;
 }
@@ -32,4 +32,4 @@ a {
 
 /*Style Footer Elements*/
 .flush-right {
-  text-align: right;
+  text-align: right !important;
